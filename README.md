@@ -78,7 +78,7 @@ The model calculates and analyzes:
 
 ---
 
-### 4. Free Cash Flow Projection
+### 3. Free Cash Flow Projection
 
 The DCF model projects:
 
@@ -92,7 +92,7 @@ The DCF model projects:
 
 ---
 
-### 5. DCF Valuation
+### 4. DCF Valuation
 
 The valuation key points:
 
@@ -108,7 +108,7 @@ The valuation key points:
 
 ---
 
-### 6. Growth & Reinvestment Analysis
+### 5. Growth & Reinvestment Analysis
 
 The model analyzes:
 
@@ -190,6 +190,6 @@ This project should not be considered investment advice.
 
 ## Author
 
-**Yash**
+**Utkarsh Singh Marlra**
 
 Finance | Equity Research | Financial Analysis | Valuation
