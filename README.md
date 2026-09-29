@@ -78,20 +78,6 @@ The model calculates and analyzes:
 
 ---
 
-### 3. Revenue Projection
-
-Revenue is projected for 2027E–2032E using growth assumptions.
-
-The model also includes:
-
-- Base case
-- Best case
-- Worst case
-
-![Revenue Projection](screenshots/revenue-projection.png)
-
----
-
 ### 4. Free Cash Flow Projection
 
 The DCF model projects:
