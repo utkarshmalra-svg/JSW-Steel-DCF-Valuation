@@ -20,16 +20,16 @@ The complete financial model is available here:
 
 ## Objectives
 
-- Historical Financial Statements: Summarize ten years of income, balance sheet, cash flows.
-- Ratio Analysis: Assess profitability, leverage, and efficiency using key financial ratios.
-- DuPont Analysis: Break down return on equity into margin, turnover, leverage.
-- Altman Z-Score: Measure bankruptcy risk using a five-factor financial health score.
-- Beneish Model: Check whether reported earnings show signs of manipulation.
-- Growth: Estimate future growth from reinvestment and return on capital.
-- WACC: Calculate overall cost of capital using peer company data.
-- FCFF: Forecast six years of free cash flow to firm.
-- DCF Model: Discount future cash flows to estimate intrinsic share value.
-- Conclusion: Compare intrinsic value with market price and recommend action.
+- Historical Financial Statements - Summarize ten years of income, balance sheet, cash flows.
+- Ratio Analysis - Assess profitability, leverage, and efficiency using key financial ratios.
+- DuPont Analysis - Break down return on equity into margin, turnover, leverage.
+- Altman Z-Score - Measure bankruptcy risk using a five-factor financial health score.
+- Beneish Model - Check whether reported earnings show signs of manipulation.
+- Growth - Estimate future growth from reinvestment and return on capital.
+- WACC - Calculate overall cost of capital using peer company data.
+- FCFF - Forecast six years of free cash flow to firm.
+- DCF Model - Discount future cash flows to estimate intrinsic share value.
+- Conclusion - Compare intrinsic value with market price and recommend action.
 ---
 
 ## Company
