@@ -178,6 +178,11 @@ These figures are outputs of the model and depend on the assumptions used for re
 
 ---
 
+## Related Project
+[JSW Steel DCF Valuation Model](https://github.com/utkarshmalra-svg/JSW-Steel-Relative-Valuation)
+
+---
+
 ## Disclaimer
 
 This project is created for educational and portfolio purposes.
